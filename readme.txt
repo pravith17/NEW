@@ -91,3 +91,99 @@ DESIGN:
 - Every page should feel eye-catching, unique, and attention-seeking.  
 
 Deliver a complete, futuristic, secure, feature-rich product that feels like a commercial-grade platform.  
+
+Build a full-stack, production-ready Event Check-In Web Application for "Pravi Managers".  
+Let mgx.dev choose the best scalable tech stack.  
+Deploy frontend on Vercel and backend on cloud hosting.  
+
+Core System:  
+1. Authentication & Security:  
+   - Participant login before registration/check-in.  
+   - Organizer/Admin secure login.  
+   - Volunteer role (scan only).  
+   - Super-admin role with global control.  
+   - OAuth (Google, Facebook).  
+   - Encrypted QR tokens, JWT-based sessions.  
+   - Rate limiting, input validation, activity logs.  
+
+2. Event Management:  
+   - Multi-event support.  
+   - Create/manage events (title, description, date, location, banner, capacity).  
+   - Event categories + tags.  
+   - Event detail pages with countdown timers and capacity status.  
+   - Bulk import/export of participants.  
+
+3. Registration + QR:  
+   - Participant registration form with profile details + photo upload.  
+   - Unique QR generated and emailed instantly.  
+   - Reminders sent 24h and 1h before event.  
+   - Team/group registrations supported.  
+   - Paid ticketing option (Stripe/PayPal integration-ready).  
+
+4. Check-In System:  
+   - Check-in via QR scan (camera) or upload from gallery.  
+   - One-time-use QR codes (secure).  
+   - Offline mode: store locally, sync later.  
+   - Real-time feedback animations (success/failure).  
+
+5. Organizer Dashboard:  
+   - Real-time stats + live attendance counters.  
+   - Charts: pie, bar, line graphs.  
+   - Attendance heatmaps (check-in peak times).  
+   - Export reports: CSV, Excel, PDF.  
+   - Advanced filters (event/date/user type).  
+   - Participant search + autocomplete.  
+
+6. Notifications:  
+   - Confirmation emails with QR.  
+   - Reminder emails before events.  
+   - Welcome messages on check-in.  
+   - Push notifications for reminders.  
+   - Optional SMS/WhatsApp notifications.  
+
+7. Gamification + Engagement:  
+   - Leaderboard for fastest check-ins.  
+   - Badges for milestones (early bird, multi-event attendee).  
+   - Animated badge unlocks.  
+   - Lucky draw/random prize among checked-in users.  
+
+8. Futuristic Neon UI/UX + Animations:  
+   - Neon cyberpunk theme with glowing gradients.  
+   - Floating animated particles.  
+   - Smooth page transitions (slide/fade).  
+   - Neon buttons with ripple + glow effects.  
+   - Animated QR card flip on scan.  
+   - Countdown timers with pulsing glow.  
+   - Progress bars with animated fill.  
+   - Fireworks/confetti animation on successful check-in.  
+   - Interactive hover effects (bounce, glow edges).  
+   - Custom neon loading screen with Pravi Managers logo animation.  
+
+9. Extra Features:  
+   - Multi-language support.  
+   - Sponsor/partner branding on event pages.  
+   - Social media sharing for events + QR.  
+   - Dark/Light/Neon theme toggle.  
+   - Accessibility (WCAG compliance).  
+   - PWA (installable as mobile app).  
+   - API endpoints for integrations.  
+   - Role-based analytics per event.  
+   - Smart duplicate prevention.  
+   - Audit logs + error monitoring.  
+   - Cloud backups + scalable DB.  
+
+10. Deployment & Scalability:  
+   - Frontend on Vercel.  
+   - Backend + DB on cloud hosting.  
+   - Secure authentication, HTTPS, CORS setup.  
+   - Performance optimized for thousands of users.  
+   - CI/CD for auto-deployment.  
+   - Documentation + admin guide included.  
+
+Design:  
+- Futuristic neon theme with animations.  
+- Hero landing page: animated background, bold CTAs (Register, Check-In, Dashboard).  
+- Fully responsive, mobile-first.  
+- Branding: "Pravi Managers" logo, footer with © Pravi Managers – Event Solutions.  
+
+Deliver a **complete production-level application**, secure, scalable, visually stunning, and packed with advanced features.  
