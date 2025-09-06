@@ -1,1 +1,123 @@
+Of course. Here is the complete, final, and maximally detailed project specification for AURA. This prompt is designed to be a comprehensive guide for mgx.dev, leaving no room for ambiguity and pushing the boundaries of what's possible in web and event technology.
+Project Specification Document: The AURA Event Experience Engine
+ * Project Title: AURA
+ * Client: Elite Events (developed by Pravi Managers)
+ * Version: 1.0
+ * Date: September 6, 2025
+1. Vision & Executive Summary
+This document outlines the creation of AURA, a revolutionary, world-first Event Experience Engine. AURA is not merely an application; it is a holistic ecosystem designed to fundamentally redefine the interaction between attendees, organizers, and the event environment itself. Our mission is to build a platform so advanced, intuitive, and engaging that it becomes the sole global standard for premier events.
+AURA will seamlessly blend the physical and digital worlds, leveraging AI, AR, and Web3 technologies to create hyper-personalized, immersive, and unforgettable experiences. It will be built for infinite scale, airtight security, and feature a breathtaking, fluid user interface that sets a new benchmark in design. This is a "category of one" product.
+2. The AURA Design System: "Liquid Aurora"
+The user experience must be professional, futuristic, and utterly captivating. We are moving away from common themes to create a unique visual identity.
+ * Aesthetic Philosophy: The design will evoke the feeling of interacting with liquid light and energy. It should feel premium, elegant, and technologically advanced. The core theme is a blend of dark matter, liquid metal, and the aurora borealis.
+ * Color Palette:
+   * Primary Backgrounds: Deep space blue (#0D0F1E), midnight purple (#19132F).
+   * Gradients: Subtle, slowly animating aurora gradients (blending teal #00F2FE, magenta #EC008C, and violet #A33BFF) used for backgrounds of cards, headers, and key sections.
+   * Accent & CTA: A vibrant, glowing teal (#00F2FE) and a warm magenta (#EC008C).
+   * Text: Pure white (#FFFFFF) for headers, off-white/light grey (#E1E1E6) for body text to reduce eye strain.
+ * Typography: A clean, modern, sans-serif font family. For instance, Inter or Satoshi, to ensure readability and a professional feel.
+ * Core Interactive Elements:
+   * Liquid Cursor Effect: This is a critical and defining feature.
+     * On Move: The cursor leaves a subtle, shimmering trail of particles, like a comet's tail on a dark canvas.
+     * On Hover (Buttons/Links): The element beneath the cursor gently warps as if touched by a finger on a water surface.
+     * On Click: A satisfying, concentric ripple effect emanates from the cursor's position, providing visceral feedback.
+   * Glassmorphism & Aurora Blur: Modals, sidebars, and cards will use a semi-transparent, blurred background ("frosted glass" effect). Behind this blur, the subtle aurora animations will continue, creating a beautiful sense of depth.
+ * Animation & Motion:
+   * Page Transitions: Seamless and fluid. No hard cuts. Use fade-through-black or a subtle "warp" effect for transitions.
+   * Element Animation: Components will load with gentle, physics-based animations (e.g., floating into place). Charts and graphs will animate as they render.
+   * Micro-interactions: Every interactive element (toggles, buttons, icons) will have a refined, non-intrusive animation to acknowledge user input. The "Pravi Managers" logo on the loading screen will materialize from a swirl of liquid particles.
+3. Tiered Feature Specification
+Development is structured in four tiers, from a world-class foundation to revolutionary, market-defining capabilities.
+Tier 1: The Core System (The Foundation)
+ * 1.1. Multi-Tiered Authentication & Security:
+   * RBAC: Participant, Organizer/Admin, Volunteer (scan-only), and Super-Admin roles with granular permissions.
+   * Secure Sign-On: OAuth 2.0 (Google, LinkedIn, Apple) and passwordless (magic link) authentication.
+   * Enterprise-Grade Security: JWT-based sessions, end-to-end encryption, encrypted QR tokens, rate limiting, OWASP Top 10 mitigation (XSS, CSRF, SQLi), and immutable audit logs for all critical actions.
+ * 1.2. Comprehensive Event Management:
+   * Full event lifecycle CRUD with multi-event support.
+   * Rich event details: Title, description, date/time, virtual/physical location (with interactive map integration), high-res banner/video, attendee capacity.
+   * Advanced categorization with nested tags and filters.
+   * Dynamic Event Pages with real-time countdowns and live capacity indicators.
+   * Bulk participant management (CSV/Excel import/export).
+ * 1.3. Smart Registration & Ticketing:
+   * Drag-and-drop customizable registration form builder.
+   * Instantaneous QR code generation (email & in-app).
+   * Automated Communication Suite: Confirmation, 24h/1h reminders.
+   * Team/Group/Corporate Registrations.
+   * Monetization-Ready: Seamless, API-first integration points for Stripe and PayPal.
+ * 1.4. Flawless Check-In System:
+   * High-speed QR scanning (camera & file upload).
+   * Offline-First Capability with automatic background sync.
+   * Secure, single-use, time-sensitive QR codes.
+   * Real-time UI feedback with "Liquid Aurora" animations.
+ * 1.5. Organizer's Command Center (Dashboard):
+   * Live attendance stats, registration velocity charts.
+   * Predictive autocomplete participant search.
+   * Multi-format data export (CSV, Excel, PDF).
+Tier 2: Advanced Platform Features (Market Excellence)
+ * 2.1. AI-Powered Analytics & Insights:
+   * Attendance heatmaps to visualize check-in velocity and venue hotspots.
+   * Predictive analytics for final attendance and no-show rates.
+   * Post-event sentiment analysis on feedback forms.
+ * 2.2. Proactive Notification Engine:
+   * Multi-channel alerts: Push notifications, email, and optional SMS/WhatsApp integration.
+   * Geofenced notifications for location-aware messaging.
+   * Personalized, trigger-based notifications (e.g., "Your next session starts in 10 minutes in Hall B").
+ * 2.3. Gamification & Community Building:
+   * Leaderboards and achievement systems with visually stunning badge-unlocking animations.
+   * Interactive modules: Live polls, Q&A, and a "Lucky Draw" feature.
+ * 2.4. In-App Networking:
+   * Opt-in Attendee Directory with AI-powered matchmaking for connection suggestions.
+   * Digital Business Card exchange via QR scan.
+Tier 3: Visionary Enhancements (Next-Generation Leader)
+ * 3.1. Post-Event Hub:
+   * Automated "Thank You" emails with feedback links and digital certificate generation.
+   * Token-gated access to exclusive content (recordings, slides) for verified attendees.
+ * 3.2. Dynamic Sponsor & Exhibitor Integration:
+   * Digital Booths with lead capture and direct messaging capabilities.
+   * Sponsored notifications and branded in-app zones.
+ * 3.3. AI Concierge & Support:
+   * An integrated AI chatbot to answer attendee FAQs 24/7.
+ * 3.4. Advanced Technical Capabilities:
+   * Full internationalization (i18n) and WCAG 2.1 AA accessibility compliance.
+   * Progressive Web App (PWA) for a native-like, installable experience.
+   * Interactive, multi-level venue maps.
+Tier 4: The Vanguard Initiative (World's First Experience Engine)
+This tier defines AURA. These are non-negotiable features that will make this platform the only one of its kind in the world.
+ * 4.1. Augmented Reality "AURA Lens" Integration:
+   * Live AR wayfinding and navigation within the event venue.
+   * Interactive, location-based AR content from sponsors and organizers.
+   * Complex, gamified AR scavenger hunts woven into the event narrative.
+ * 4.2. Generative AI-Powered "Memory Engine":
+   * Automatically creates a unique, personalized, and professionally edited short video highlight reel for every single attendee post-event.
+ * 4.3. Web3 & Digital Ownership:
+   * Automatic minting and air-dropping of unique NFT "Memories" (POAPs) to attendees as verifiable, collectible digital artifacts of their experience.
+   * Token-gated governance, allowing NFT holders to vote on aspects of future events, creating a decentralized, community-driven ecosystem.
+ * 4.4. "Collaborative Canvas" - Live Generative Art:
+   * A live, co-created digital art installation powered by attendee prompts and a generative AI model. The final piece is minted as an NFT and auctioned.
+ * 4.5. Predictive Crowd-Flow & Logistics AI:
+   * An AI model that analyzes check-in data and real-time location patterns to predict crowd congestion and logistical bottlenecks. It will send proactive alerts and suggestions to organizers (e.g., "High traffic detected near Hall C. Suggest opening auxiliary exit D.").
+ * 4.6. Sentient Ambiance System (IoT Integration):
+   * The platform API will be designed to integrate with smart venue systems (Philips Hue, etc.). It will use real-time data (crowd noise level, pace of check-ins, sentiment from in-app chat) to dynamically adjust lighting color/intensity and ambient music to match and enhance the collective event mood.
+ * 4.7. Holographic AI Concierge:
+   * The platform will support an API endpoint designed to power on-site holographic displays or AR glasses. This allows for an interactive, 3D AI avatar to act as a futuristic information booth, providing directions and answering questions.
+4. Technical Architecture & Non-Functional Requirements
+ * Architecture: Microservices-based architecture, fully containerized (Docker) and orchestrated (Kubernetes).
+ * Scalability: Engineered to handle 100,000+ concurrent users with low latency. Utilize serverless functions for spiky workloads like QR code generation and notifications.
+ * Database: A scalable database solution (e.g., PostgreSQL with TimescaleDB for time-series data, or a multi-model database like FaunaDB).
+ * Security: Assume a zero-trust security model. All internal and external communication must be encrypted. Regular penetration testing and vulnerability scanning are required.
+ * Data Privacy: GDPR, CCPA, and global data privacy standards must be adhered to from day one. Data must be encrypted at rest and in transit.
+ * Deployment:
+   * Frontend: Vercel for its global CDN and performance optimizations.
+   * Backend & DB: A major cloud provider (AWS, GCP, Azure).
+   * DevOps: A complete, automated CI/CD pipeline using GitHub Actions or a similar tool.
+5. Final Deliverables
+ * Fully Deployed, Production-Ready AURA Platform: All tiered features implemented and live.
+ * Complete Source Code: Well-documented, clean, and maintainable code hosted in a private Git repository.
+ * Comprehensive Documentation:
+   * Architectural diagrams.
+   * Full API documentation (Swagger/OpenAPI).
+   * Detailed setup, deployment, and maintenance guide.
+   * User manuals for all roles (Admin, Organizer, etc.).
+ * Ownership: Full intellectual property rights for the AURA platform, its name, and its codebase will be transferred to Elite Events / Pravi Managers.
 
