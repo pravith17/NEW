@@ -64,3 +64,32 @@ Impact:
 	•	Makes the demo look complete for judges.
 	•	Adds professional polish and realism with minimal token cost.
 	•	Keeps system efficient, fast, and user-friendly.
+
+
+The Event Registration page of our Event Check-In System has been enhanced with predefined event options to create a complete, user-friendly, and professional flow. Instead of leaving the event field empty or generic, a dropdown menu now provides realistic sample events that participants can easily select when registering.
+
+✅ Events Included
+	•	Tech Fest 2025 – A showcase of innovation and technology.
+	•	Startup Summit – A platform for entrepreneurs to connect and pitch ideas.
+	•	Music Night – Entertainment with live performances.
+	•	Sports Meet – Competitive college-level sports events.
+	•	Cultural Fest – Dance, drama, and cultural programs.
+
+🎯 Purpose and Benefits
+	1.	Demonstrates Multi-Event Support
+The system can now handle multiple events in a seamless manner, which shows scalability and flexibility.
+	2.	Adds Realism for Judges and Users
+Pre-filled event names make the prototype feel like a real-world product rather than a basic demo.
+	3.	Improves User Experience
+Participants can quickly select their event from a clean, intuitive dropdown, saving time and reducing errors.
+	4.	Maintains Efficiency
+This enhancement is lightweight and does not add unnecessary complexity, keeping the system fast and token-efficient.
+	5.	Strengthens Brand Identity
+With these additions, the system aligns more with Pravi Managers’ vision of delivering professional, streamlined event solutions.
+
+🌟 Impact
+
+By upgrading the registration process with predefined events, the platform becomes:
+	•	More polished → Judges see it as ready for real use.
+	•	More professional → Looks like a finished product, not just a prototype.
+	•	More competitive → Adds value without heavy coding or high point usage.
