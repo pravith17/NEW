@@ -30,3 +30,12 @@ Add unique features:
 7. Secure: QR one-time use only.  
 UI: modern, polished, animated, with Pravi Managers branding, logo, and footer.  
 Keep code efficient, responsive, fast-loading.  
+
+Update event registration page.  
+Add sample events in dropdown:  
+- Tech Fest 2025  
+- Startup Summit  
+- Music Night  
+- Sports Meet  
+- Cultural Fest  
+Keep dropdown clean and functional.  
