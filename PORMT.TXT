@@ -17,3 +17,16 @@ Changes needed:
    - Add a clean footer with "© Pravi Managers".  
 4. Make UI polished, responsive, and different from standard templates.  
 5. Keep code minimal, efficient, and fast-loading.  
+
+Upgrade the Event Check-In System for "Pravi Managers".  
+Core: registration with QR, check-in by scan or upload, organizer dashboard.  
+Add unique features:  
+1. Multi-event support with separate dashboards.  
+2. Real-time stats and chart: registered vs checked-in.  
+3. Send QR via email on registration.  
+4. Role-based access: organizer, volunteer, participant.  
+5. Dark mode toggle.  
+6. Export attendance to CSV/Excel.  
+7. Secure: QR one-time use only.  
+UI: modern, polished, animated, with Pravi Managers branding, logo, and footer.  
+Keep code efficient, responsive, fast-loading.  
