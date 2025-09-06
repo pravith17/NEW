@@ -5,3 +5,15 @@ Core features:
 3. QR scan via camera → auto-mark attendance.  
 4. Organizer dashboard: list of registered + present users.  
 Keep it fast, clean, minimal UI, no extras.  
+
+
+Update the current Event Check-In System code.  
+Changes needed:  
+1. Add option to upload QR code from gallery, in addition to camera scan.  
+2. Apply "Pravi Managers" branding: logo placeholder, brand colors, modern typography.  
+3. Redesign homepage with a unique, professional layout:  
+   - Hero section with title + tagline  
+   - Three main cards: Register, Check-in, Dashboard (make them visually distinct with icons, hover effects).  
+   - Add a clean footer with "© Pravi Managers".  
+4. Make UI polished, responsive, and different from standard templates.  
+5. Keep code minimal, efficient, and fast-loading.  
