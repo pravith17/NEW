@@ -39,3 +39,28 @@ Add sample events in dropdown:
 - Sports Meet  
 - Cultural Fest  
 Keep dropdown clean and functional.  
+
+
+
+Objective:
+Upgrade the Event Registration page so it feels professional, functional, and competition-ready.
+
+Enhancements:
+	•	Add predefined events to the dropdown for quick selection.
+	•	Events included:
+	1.	Tech Fest 2025 – A celebration of innovation and technology.
+	2.	Startup Summit – Networking and pitching for entrepreneurs.
+	3.	Music Night – Live performances and entertainment.
+	4.	Sports Meet – College-level sports competitions.
+	5.	Cultural Fest – Dance, drama, and cultural showcases.
+
+Design Principles:
+	•	Dropdown should be clean, simple, and intuitive.
+	•	Each event option should feel realistic, not placeholder text.
+	•	Maintain consistent branding with “Pravi Managers.”
+
+Impact:
+	•	Shows multi-event capability without heavy coding.
+	•	Makes the demo look complete for judges.
+	•	Adds professional polish and realism with minimal token cost.
+	•	Keeps system efficient, fast, and user-friendly.
