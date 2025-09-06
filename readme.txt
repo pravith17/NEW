@@ -87,12 +87,15 @@ DESIGN:
 - Hero page with neon futuristic animated background.  
 - Big CTA buttons: Register, Check-In, Dashboard.  
 - Logo + branding of "Elite Events".  
-- Footer: © Pravi Managers – Event Solutions.  
+- Footer: © Elite Events – Event Solutions.  
 - Every page should feel eye-catching, unique, and attention-seeking.  
 
 Deliver a complete, futuristic, secure, feature-rich product that feels like a commercial-grade platform.  
 
-Build a full-stack, production-ready Event Check-In Web Application for "Pravi Managers".  
+
+
+
+Build a full-stack, production-ready Event Check-In Web Application for "Elite Events".  
 Let mgx.dev choose the best scalable tech stack.  
 Deploy frontend on Vercel and backend on cloud hosting.  
 
@@ -184,6 +187,6 @@ Design:
 - Futuristic neon theme with animations.  
 - Hero landing page: animated background, bold CTAs (Register, Check-In, Dashboard).  
 - Fully responsive, mobile-first.  
-- Branding: "Pravi Managers" logo, footer with © Pravi Managers – Event Solutions.  
+- Branding: "Pravi Managers" logo, footer with © Elite Events – Event Solutions.  
 
 Deliver a **complete production-level application**, secure, scalable, visually stunning, and packed with advanced features.  
