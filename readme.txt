@@ -86,7 +86,7 @@ CORE FEATURES:
 DESIGN:  
 - Hero page with neon futuristic animated background.  
 - Big CTA buttons: Register, Check-In, Dashboard.  
-- Logo + branding of "Pravi Managers".  
+- Logo + branding of "Elite Events".  
 - Footer: © Pravi Managers – Event Solutions.  
 - Every page should feel eye-catching, unique, and attention-seeking.  
 
