@@ -1,1 +1,69 @@
-PORMT.TXT
+Vibe-Athon 2025 – Problem Statements (Detailed)
+Anonymous Confession Wall
+College students often want a space to express themselves anonymously, whether it’s funny,
+emotional, or lighthearted thoughts. Right now, these end up scattered across Instagram stories,
+random WhatsApp groups, or never shared at all. The idea is to centralize anonymous posts into
+one “confession wall” where peers can read and react instantly.
+- Expected features: anonymous posting, reaction system (likes/emojis), feed-style display.
+- Why it matters: Builds a sense of community while protecting identities.
+- Difficulty: 4/10
+College Meme Board
+Memes are the student body’s unofficial language. Every inside joke, exam struggle, and campus
+quirk deserves its own spotlight. A meme board allows users to upload memes and vote on their
+favorites, creating a leaderboard of the funniest content.
+- Expected features: image upload, upvote/downvote system, trending display.
+- Why it matters: Boosts engagement, fun, and campus identity.
+- Difficulty: 5/10
+Lost & Found Portal
+Items like water bottles, ID cards, and umbrellas often vanish on campus, never to return. A lost &
+found portal digitizes the process: students can post either “lost” or “found” items with short
+descriptions and pictures, and others can connect if they’ve seen it.
+- Expected features: item posting (lost/found category), search or filter by type.
+- Why it matters: Saves time and frustration, reduces “ask around endlessly” problem.
+- Difficulty: 5/10
+Event Check-In System
+At college events, tracking attendance is a headache — sheets get misplaced and manual counts
+are slow. A simple digital system where participants register beforehand, get a QR code, and scan
+at entry makes check-ins faster and cleaner.
+- Expected features: registration, QR generation, scan + mark attendance.
+- Why it matters: Improves event management and provides attendance records instantly.
+- Difficulty: 6/10
+Quick Polls Platform
+Organizers often want real-time opinions from students: “Which event timing works best?”, “Favorite
+performance?”, “Who should win the fun contest?” A quick polls system allows polls to be created
+and voted on instantly, with live results visible.
+- Expected features: poll creation, voting, result display.
+- Why it matters: Encourages participation and gives event organizers fast feedback.
+- Difficulty: 4/10
+Study Buddy Finder
+Students preparing for exams or projects often struggle to find like-minded peers to study with. A
+study buddy finder helps people match based on subject, skill level, or timing, making it easier to
+prepare together.
+- Expected features: profile creation (subjects), search/match results.
+- Why it matters: Builds collaboration, reduces exam stress, promotes peer learning.
+- Difficulty: 6/10
+Canteen Menu Live
+Nobody likes the mystery of “what’s in the canteen today?” A live menu system lets the canteen
+update daily dishes and students see it instantly. Students can also rate items (“good” or “bad”),
+creating a feedback loop for the kitchen.
+- Expected features: daily menu display, rating system.
+- Why it matters: Improves food choices, canteen reputation, and reduces wasted food.
+- Difficulty: 5/10
+Digital Suggestion Box
+Students usually hesitate to give feedback directly to faculty or organizers. A digital suggestion box
+allows anonymous submissions where students can share their ideas, complaints, or
+improvements. Later, suggestions can be reviewed and acted upon.
+- Expected features: anonymous submission, suggestion feed.
+- Why it matters: Encourages honest input, helps organizers improve future events.
+- Difficulty: 4/10
+Skill Swap Mini-Market
+Many students have skills they can share — photography, coding, dancing — and skills they want
+to learn. A mini “marketplace” where students list what they can teach and what they want to learn
+allows easy skill exchanges.
+- Expected features: skill listings, connect option.
+- Why it matters: Promotes peer-to-peer learning, builds networks across domains.
+- Difficulty: 6/10
+Open Innovation (Wildcard)
+Participants are free to innovate and build any MVP that solves a student or community problem not
+listed above. This could be something fun, creative, or impactful, as long as it can be built within the
+given time. Judges will value originality, feasibility, and presentation
